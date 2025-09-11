@@ -638,6 +638,9 @@
 - Link - <https://www.chase.com/personal/offers/college-checking>
 
 
+
+
+
 If you found this resource helpful, please give the repo a star! It really helps with visibility.
 
 Follow me on LinkedIn for more updates on student resources and tech.
