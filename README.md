@@ -637,4 +637,11 @@
 - Duration – One time
 - Link - <https://www.chase.com/personal/offers/college-checking>
 
+
+If you found this resource helpful, please give the repo a star! It really helps with visibility.
+
+Follow me on LinkedIn for more updates on student resources and tech.
+
+Feel free to open issues or pull requests if you want to contribute or suggest improvements!
+
 Made by Sanjai Bala **|** [www.sanjaibala.com](http://www.sanjaibala.com) **|** LinkedIn: <https://www.linkedin.com/in/sanjai-bala/>
