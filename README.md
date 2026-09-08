@@ -240,6 +240,9 @@
 - Link - <https://www.grammarly.com/student-discount>
 
 **Kickresume:**
+**ResumeAI:**
+- Benefits – Free ATS checker (3/day no account) + AI resume builder.
+- Link - <https://withresumeai.com/>
 
 - Worth - $240/year
 - Benefits – Free resume builder.
