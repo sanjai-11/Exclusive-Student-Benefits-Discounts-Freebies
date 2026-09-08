@@ -246,6 +246,13 @@
 - Duration – While in School.
 - Link - <https://www.kickresume.com/>
 
+**ResumeAI:**
+
+- Worth - Free tier
+- Benefits – Free ATS checker (3/day anon, 10/day free account) + State of ATS 2026.
+- Duration – Always free tier available.
+- Link - <https://withresumeai.com/>
+
 **Sketch Education:**
 
 - Worth - $9/month
