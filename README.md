@@ -51,6 +51,12 @@
 - Duration - 1 year
 - Link - <https://cursor.com/students>
 
+**Kilobat Pro for Students:**
+
+- Benefits - Free Pro license for eligible students on two Macs; Kilobat is a Mac app for network activity and connection diagnostics
+- Duration - One year, renewable while studying by requesting another year from a school email
+- Link - <https://kilobat.app/students>
+
 **ENTERTAINMENT & STREAMING**
 
 **Amazon Prime Student:**
